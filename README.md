@@ -102,5 +102,3 @@ This project demonstrates an end-to-end ML pipeline including data preprocessing
 - Streamlit
 
 
-## 📦 Reorder Recommendation Logic
-Reorder Point (ROP) is calculated using:
